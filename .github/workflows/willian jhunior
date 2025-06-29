@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Willian Jhunior Yucra Quispe</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #eef6fa;
+      color: #333;
+      padding: 40px;
+      text-align: center;
+    }
+    .card {
+      background: white;
+      max-width: 700px;
+      margin: auto;
+      padding: 30px;
+      border-radius: 12px;
+      box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+    }
+    img {
+      width: 150px;
+      border-radius: 50%;
+      margin-bottom: 20px;
+    }
+    h1 {
+      color: #003366;
+    }
+    a {
+      color: #0077b5;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .section {
+      text-align: left;
+      margin-top: 30px;
+    }
+    .section h2 {
+      color: #004080;
+    }
+    ul {
+      text-align: left;
+      padding-left: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <img src="https://via.placeholder.com/150" alt="Foto de Willian">
+    <h1>Willian Jhunior Yucra Quispe</h1>
+    <p>Estudiante de la <a href="https://ucsp.edu.pe/" target="_blank">Universidad Católica San Pablo</a></p>
+    <p><a href="https://www.linkedin.com/in/willian-jhunior-yucra-quispe-503baa370" target="_blank">LinkedIn</a></p>
+
+    <div class="section">
+      <h2>Sobre mí</h2>
+      <p>Estudio <a href="https://ucsp.edu.pe/carreras/administracion-negocios/" target="_blank">Administración de Negocios</a>. 
+      Me gusta aprender cosas nuevas, escuchar música, y jugar básquet. Nací el 28 de enero y mi signo es Acuario.</p>
+    </div>
+
+    <div class="section">
+      <h2>Gustos musicales</h2>
+      <ul>
+        <li><a href="https://music.youtube.com/watch?v=sDCgT27Bq3o&list=RDAMVMsDCgT27Bq3o" target="_blank">Canción 1</a></li>
+        <li><a href="https://music.youtube.com/watch?v=TX6JGBAELI8&list=PLKwSkAC38eqWFnALFifbNPvA89SGbJ7H_" target="_blank">Canción 2</a></li>
+        <li><a href="https://music.youtube.com/watch?v=CIu-qF1JbZ0&list=PLKwSkAC38eqWFnALFifbNPvA89SGbJ7H_" target="_blank">Canción 3</a></li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Pasatiempos</h2>
+      <ul>
+        <li>Escuchar música</li>
+        <li>Jugar básquet</li>
+        <li>Conocer nuevas ideas</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Páginas de amigos</h2>
+      <ul>
+        <li><a href="https://helbertmamani.github.io/helbert.github.io/" target="_blank">Página de Helbert Mamani</a></li>
+        <li><a href="https://ashley-blue0.github.io/ashleyancallealarcon.github.io/" target="_blank">Página de Ashley Ancalle</a></li>
+        <li><a href="https://ismael-caceres.github.io/Ismael-Valentin-Caceres-Gallegos/" target="_blank">Página de Ismael Cáceres</a></li>
+      </ul>
+    </div>
+
+  </div>
+</body>
+</html>
